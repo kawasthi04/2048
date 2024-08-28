@@ -1,0 +1,188 @@
+.root {
+    /* -webkit-background-color: #BBADA0;
+    -moz-background-color: #BBADA0;
+    -ms-background-color: #BBADA0;
+    -o-background-color: #BBADA0; */
+    -fx-background-color: #BBADA0;
+    background-color: #BBADA0; /* Standard property */
+}
+
+.label {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-size: 40pt;
+    -moz-font-size: 40pt;
+    -ms-font-size: 40pt;
+    -o-font-size: 40pt;
+    -fx-font-size: 40pt;
+    font-size: 40pt; /* Standard property */
+    -webkit-font-weight: bold;
+    -moz-font-weight: bold;
+    -ms-font-weight: bold;
+    -o-font-weight: bold;
+    -fx-font-weight: bold;
+    font-weight: bold; /* Standard property */
+    -webkit-border-width: 10px;
+    -moz-border-width: 10px;
+    -ms-border-width: 10px;
+    -o-border-width: 10px;
+    -fx-border-width: 10px;
+    border-width: 10px; /* Standard property */
+    -webkit-border-color: #BBADA0;
+    -moz-border-color: #BBADA0;
+    -ms-border-color: #BBADA0;
+    -o-border-color: #BBADA0;
+    -fx-border-color: #BBADA0;
+    border-color: #BBADA0; /* Standard property */
+    -webkit-font-family: Arial, Helvetica, sans-serif;
+    -moz-font-family: Arial, Helvetica, sans-serif;
+    -ms-font-family: Arial, Helvetica, sans-serif;
+    -o-font-family: Arial, Helvetica, sans-serif;
+    -fx-font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif; /* Standard property */
+    -webkit-padding: 10;
+    -moz-padding: 10;
+    -ms-padding: 10;
+    -o-padding: 10;
+    -fx-padding: 10;
+    padding: 10; /* Standard property */
+    -fx-alignment: center;
+    -fx-pref-height: 130;
+    -fx-pref-width: 130;
+    -fx-alignment: center;
+    -fx-pref-height: 130;
+    -fx-pref-width: 130;
+    -fx-background-color: #CDC1B4;
+    background-color: #CDC1B4; /* Standard property */
+}
+
+.num-0 {
+    -webkit-background-color: #CDC1B4;
+    -moz-background-color: #CDC1B4;
+    -ms-background-color: #CDC1B4;
+    -o-background-color: #CDC1B4;
+    -fx-background-color: #CDC1B4;
+    background-color: #CDC1B4; /* Standard property */
+}
+
+.num-2 {
+    -webkit-background-color: #EEE4DA;
+    -moz-background-color: #EEE4DA;
+    -ms-background-color: #EEE4DA;
+    -o-background-color: #EEE4DA;
+    -fx-background-color: #EEE4DA;
+    background-color: #EEE4DA; /* Standard property */
+    -fx-text-fill: #776E65;
+}
+
+.num-4 {
+    -webkit-background-color: #EEE1C9;
+    -moz-background-color: #EEE1C9;
+    -ms-background-color: #EEE1C9;
+    -o-background-color: #EEE1C9;
+    -fx-background-color: #EEE1C9;
+    background-color: #EEE1C9; /* Standard property */
+    -fx-text-fill: #776E65;
+}
+
+.num-8 {
+    -webkit-background-color: #F4B17A;
+    -moz-background-color: #F4B17A;
+    -ms-background-color: #F4B17A;
+    -o-background-color: #F4B17A;
+    -fx-background-color: #F4B17A;
+    background-color: #F4B17A; /* Standard property */
+    -fx-text-fill: #E6F4F5;
+}
+
+.num-16 {
+    -webkit-background-color: #F79663;
+    -moz-background-color: #F79663;
+    -ms-background-color: #F79663;
+    -o-background-color: #F79663;
+    -fx-background-color: #F79663;
+    background-color: #F79663; /* Standard property */
+    -fx-text-fill: #E6F4F5;
+}
+
+.num-32 {
+    -webkit-background-color: #F67D62;
+    -moz-background-color: #F67D62;
+    -ms-background-color: #F67D62;
+    -o-background-color: #F67D62;
+    -fx-background-color: #F67D62;
+    background-color: #F67D62; /* Standard property */
+    -fx-text-fill: #E6F4F5;
+}
+
+.num-64 {
+    -webkit-background-color: #EDC651;
+    -moz-background-color: #EDC651;
+    -ms-background-color: #EDC651;
+    -o-background-color: #EDC651;
+    -fx-background-color: #EDC651;
+    background-color: #EDC651; /* Standard property */
+    -fx-text-fill: #E6F4F5;
+}
+
+.num-128 {
+    -webkit-background-color: #EDCE73;
+    -moz-background-color: #EDCE73;
+    -ms-background-color: #EDCE73;
+    -o-background-color: #EDCE73;
+    -fx-background-color: #EDCE73;
+    background-color: #EDCE73; /* Standard property */
+    -fx-text-fill: #E6F4F5;
+}
+
+.num-256 {
+    -webkit-background-color: #EDCA64;
+    -moz-background-color: #EDCA64;
+    -ms-background-color: #EDCA64;
+    -o-background-color: #EDCA64;
+    -fx-background-color: #EDCA64;
+    background-color: #EDCA64; /* Standard property */
+    -fx-text-fill: #E6F4F5;
+}
+
+.num-512 {
+    -webkit-background-color: #EDC651;
+    -moz-background-color: #EDC651;
+    -ms-background-color: #EDC651;
+    -o-background-color: #EDC651;
+    -fx-background-color: #EDC651;
+    background-color: #EDC651; /* Standard property */
+    -fx-text-fill: #E6F4F5;
+}
+
+.num-1024 {
+    -webkit-background-color: #EEC744;
+    -moz-background-color: #EEC744;
+    -ms-background-color: #EEC744;
+    -o-background-color: #EEC744;
+    -fx-background-color: #EEC744;
+    background-color: #EEC744; /* Standard property */
+    -fx-text-fill: #E6F4F5;
+    -webkit-font-size: 31pt;
+    -moz-font-size: 31pt;
+    -ms-font-size: 31pt;
+    -o-font-size: 31pt;
+    -fx-font-size: 31pt;
+    font-size: 31pt;
+}
+
+.num-2048 {
+    -webkit-background-color: #EFC034;
+    -moz-background-color: #EFC034;
+    -ms-background-color: #EFC034;
+    -o-background-color: #EFC034;
+    -fx-background-color: #EFC034;
+    background-color: #EFC034; /* Standard property */
+    -fx-text-fill: #E6F4F5;
+    -webkit-font-size: 31pt;
+    -moz-font-size: 31pt;
+    -ms-font-size: 31pt;
+    -o-font-size: 31pt;
+    -fx-font-size: 31pt;
+    font-size: 31pt;
+}
